@@ -3,7 +3,6 @@
  *******************/
 
 function loadJsonToHtml(jsonArr) {
-  console.log(">>>>>> loadJsonToHtml() 01 ");
   for (let i = 0; i < jsonArr.length; i++) {
     convertJsonToHtml(i + 1, jsonArr[i]["url"], jsonArr[i]["method"], jsonArr[i]["title"]);
   }
@@ -33,7 +32,6 @@ async function convertJsonToHtml(idx, url, method, title) {
 
 // 테이블 생성 함수
 function createTable(jsonObj, info) {
-  console.log(" ▶ " + JSON.stringify(info, null, "  "), jsonObj);
   if (jsonObj instanceof Array) {
     return _make_array(jsonObj);
   } else if (jsonObj instanceof Object) {
@@ -43,7 +41,7 @@ function createTable(jsonObj, info) {
   }
 }
 
-// 테이블 생성 함수 :: array
+// arrray table생성
 function _make_array(jsonObj) {
   let _table = document.createElement("table");
   _table.setAttribute("class", "arr_table");
@@ -97,7 +95,7 @@ function _make_array(jsonObj) {
   return _table;
 }
 
-// 테이블 생성 함수 :: object
+// object table생성
 function _make_object(jsonObj) {
   let _table = document.createElement("table");
   _table.setAttribute("class", "obj_table");
@@ -127,7 +125,7 @@ function _make_object(jsonObj) {
   return _table;
 }
 
-// 타이블
+// 타이틀
 function _out_title(value) {
   let result = "";
   if (value == null || value == "null") {
