@@ -32,6 +32,7 @@ async function convertJsonToHtml(idx, url, method, title) {
 
 // 테이블 생성 함수
 function createTable(jsonObj, info) {
+  console.log(" ▶ " + JSON.stringify(info, null, "  "), jsonObj);
   if (jsonObj instanceof Array) {
     return _make_array(jsonObj);
   } else if (jsonObj instanceof Object) {
