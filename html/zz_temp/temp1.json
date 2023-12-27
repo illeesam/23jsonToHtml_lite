@@ -1,0 +1,17 @@
+{
+    "id": 1,
+    "name": "John",
+    "details": [{
+            "age": 25,
+            "address": "템프1"
+        },
+        {
+            "age": 30,
+            "address": "템프2",
+            "address2": {
+                "age": 25,
+                "address": "템프3"
+            }
+        }
+    ]
+}

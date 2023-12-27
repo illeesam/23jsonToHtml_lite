@@ -1,0 +1,81 @@
+
+<html>
+<head>
+<link href="/css/main.css" rel="stylesheet" />
+<title>zz_sample1</title>
+<script type="text/javascript" src="/js/lib/axios.min.js"></script>
+<script type="text/javascript" src="/js/common.js"></script>
+<script type="text/javascript" src="/js/_metas.js"></script>
+<script type="text/javascript" src="/js/_codes.js"></script>
+<script>
+    function load(){
+        console.log(">>>>>> /main.htmnl :: load() 01 ")
+        let dirPath = "/html/zz_sample1";
+        let jsonFiles = [];
+        jsonFiles.push({url: dirPath + "/sampledata1.json", method: 'get', title: "샘플1"});
+        jsonFiles.push({url: dirPath + "/sampledata2.json", method: 'get', title: "샘플2"});
+        jsonFiles.push({url: dirPath + "/sampledata3.json", method: 'get', title: "샘플3"});
+        jsonFiles.push({url: dirPath + "/sampledata4.json", method: 'get', title: "샘플4"});
+        jsonFiles.push({url: dirPath + "/sampledata5.json", method: 'get', title: "샘플5"});
+        loadJsonToHtml(jsonFiles)
+    }
+</script>
+</head>
+<body onload="load()">
+    <table style="border:1px;border-color: red;">
+        <tr style="background-color: #dddddd;">
+            <td>json파일경로</td><td id="jsonFile1" class="basetitle"></td><td id="title1"></td>
+        </tr>
+    </table>
+    <div id="html1"></div>
+
+    <table style="border:1px">
+        <tr style="background-color: #dddddd;">
+            <td>json파일경로</td><td id="jsonFile2" class="basetitle"></td><td id="title2"></td>
+        </tr>
+    </table>
+    <div id="html2"></div>
+
+    <table style="border:1px">
+        <tr style="background-color: #dddddd;">
+            <td>json파일경로</td><td id="jsonFile3" class="basetitle"></td><td id="title3"></td>
+        </tr>
+    </table>
+    <div id="html3"></div>
+
+    <table style="border:1px">
+        <tr style="background-color: #dddddd;">
+            <td>json파일경로</td><td id="jsonFile4" class="basetitle"></td><td id="title4"></td>
+        </tr>
+    </table>
+    <div id="html4"></div>
+
+    <table style="border:1px">
+        <tr style="background-color: #dddddd;">
+            <td>json파일경로</td><td id="jsonFile5" class="basetitle"></td><td id="title5"></td>
+        </tr>
+    </table>
+    <div id="html5"></div>
+
+    <table style="border:1px">
+        <tr style="background-color: #dddddd;">
+            <td>json파일경로</td><td id="jsonFile6" class="basetitle"></td><td id="title6"></td>
+        </tr>
+    </table>
+    <div id="html6"></div>
+
+    <table style="border:1px">
+        <tr style="background-color: #dddddd;">
+            <td>json파일경로</td><td id="jsonFile7" class="basetitle"></td><td id="title7"></td>
+        </tr>
+    </table>
+    <div id="html7"></div>
+
+    <table style="border:1px">
+        <tr style="background-color: #dddddd;">
+            <td>json파일경로</td><td id="jsonFile8" class="basetitle"></td><td id="title8"></td>
+        </tr>
+    </table>
+    <div id="html8"></div>
+
+<form>

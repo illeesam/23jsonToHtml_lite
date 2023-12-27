@@ -1,0 +1,64 @@
+{
+    "basicBenefits": [
+        {
+            "accountNo": 101480212,
+            "customerManageBenefitPolicyNo": 26509964,
+            "benefitPolicyName": "스토어찜",
+            "benefitKindType": "COUPON",
+            "customerManageBenefitType": "TALK_FRIEND",
+            "customerManageBenefitStatusType": "ON",
+            "repurchaseConditionType": "PRODUCT",
+            "useObjectType": "ACCOUNT",
+            "benefitUnitType": "WON",
+            "benefitValue": 300,
+            "benefitStartDate": "2023-12-06T02:00:00.000+0000",
+            "benefitEndDate": "2024-01-06T01:59:59.999+0000",
+            "couponPublicationNo": "4950033266200",
+            "couponPublicationType": "DOWNLOAD",
+            "minOrderAmount": 10000,
+            "validPeriodStartDate": "2023-12-06T02:00:00.000+0000",
+            "validPeriodEndDate": "2024-01-06T01:59:59.999+0000",
+            "validityDay": 0,
+            "interestTypes": [
+                "TALK_TALK"
+            ],
+            "onlyInterest": false,
+            "couponKindType": "PRODUCT",
+            "couponItemDetailExposureYn": true,
+            "couponTalkExposureYn": true,
+            "membershipCouponYn": false,
+            "hasBenefit": false
+        }
+    ],
+    "sortedHomeBenefits": [
+        {
+            "accountNo": 101480212,
+            "customerManageBenefitPolicyNo": 26509964,
+            "benefitPolicyName": "스토어찜",
+            "benefitKindType": "COUPON",
+            "customerManageBenefitType": "TALK_FRIEND",
+            "customerManageBenefitStatusType": "ON",
+            "repurchaseConditionType": "PRODUCT",
+            "useObjectType": "ACCOUNT",
+            "benefitUnitType": "WON",
+            "benefitValue": 300,
+            "benefitStartDate": "2023-12-06T02:00:00.000+0000",
+            "benefitEndDate": "2024-01-06T01:59:59.999+0000",
+            "couponPublicationNo": "4950033266200",
+            "couponPublicationType": "DOWNLOAD",
+            "minOrderAmount": 10000,
+            "validPeriodStartDate": "2023-12-06T02:00:00.000+0000",
+            "validPeriodEndDate": "2024-01-06T01:59:59.999+0000",
+            "validityDay": 0,
+            "interestTypes": [
+                "TALK_TALK"
+            ],
+            "onlyInterest": false,
+            "couponKindType": "PRODUCT",
+            "couponItemDetailExposureYn": true,
+            "couponTalkExposureYn": true,
+            "membershipCouponYn": false,
+            "hasBenefit": false
+        }
+    ]
+}

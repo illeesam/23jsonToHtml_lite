@@ -1,0 +1,13 @@
+{
+    "id": 1,
+    "name": "map, 3번째 list 2행",
+    "details": [{
+            "col1": 25,
+            "col2": "123 Main 2222"
+        },
+        {
+            "col1": 30,
+            "col2": "456 Oak St"
+        }
+    ]
+}

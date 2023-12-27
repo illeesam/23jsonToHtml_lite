@@ -1,0 +1,27 @@
+[{
+    "id": 1,
+    "name": "John",
+    "details": [{
+            "age": 25,
+            "address": "123 Main 444"
+        },
+        {
+            "age": 30,
+            "address": "456 Oak St"
+        }
+    ]
+},
+{
+    "id": 2,
+    "name": "Jane 222222",
+    "details": [{
+            "age": 22,
+            "address": "789 Elm St3333 3333333"
+        },
+        {
+            "age": 28,
+            "address": "101 Pine St 44444444"
+        }
+    ]
+}
+]
