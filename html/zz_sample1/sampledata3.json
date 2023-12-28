@@ -1,64 +1,667 @@
-{
-    "basicBenefits": [
+[
+    {
+      "_id": "5831995198",
+      "productId": "5831995198",
+      "soldout": false,
+      "productImages": [
         {
-            "accountNo": 101480212,
-            "customerManageBenefitPolicyNo": 26509964,
-            "benefitPolicyName": "스토어찜",
-            "benefitKindType": "COUPON",
-            "customerManageBenefitType": "TALK_FRIEND",
-            "customerManageBenefitStatusType": "ON",
-            "repurchaseConditionType": "PRODUCT",
-            "useObjectType": "ACCOUNT",
-            "benefitUnitType": "WON",
-            "benefitValue": 300,
-            "benefitStartDate": "2023-12-06T02:00:00.000+0000",
-            "benefitEndDate": "2024-01-06T01:59:59.999+0000",
-            "couponPublicationNo": "4950033266200",
-            "couponPublicationType": "DOWNLOAD",
-            "minOrderAmount": 10000,
-            "validPeriodStartDate": "2023-12-06T02:00:00.000+0000",
-            "validPeriodEndDate": "2024-01-06T01:59:59.999+0000",
-            "validityDay": 0,
-            "interestTypes": [
-                "TALK_TALK"
-            ],
-            "onlyInterest": false,
-            "couponKindType": "PRODUCT",
-            "couponItemDetailExposureYn": true,
-            "couponTalkExposureYn": true,
-            "membershipCouponYn": false,
-            "hasBenefit": false
+          "imageType": "REPRESENTATIVE",
+          "order": 1,
+          "url": "https://shop-phinf.pstatic.net/20231114_70/1699953659376LgVsh_JPEG/52026046770263586_125298835.jpg",
+          "width": 750,
+          "height": 1000
         }
-    ],
-    "sortedHomeBenefits": [
+      ],
+      "benefitsView": {
+        "mobileDiscountedSalePrice": 50000
+      },
+      "name": "[스타벅스] APP전용_e카드 5만원 교환권",
+      "channel": {
+        "channelNo": 100889343
+      }
+    },
+    {
+      "_id": "6182400115",
+      "productId": "6182400115",
+      "soldout": false,
+      "productImages": [
         {
-            "accountNo": 101480212,
-            "customerManageBenefitPolicyNo": 26509964,
-            "benefitPolicyName": "스토어찜",
-            "benefitKindType": "COUPON",
-            "customerManageBenefitType": "TALK_FRIEND",
-            "customerManageBenefitStatusType": "ON",
-            "repurchaseConditionType": "PRODUCT",
-            "useObjectType": "ACCOUNT",
-            "benefitUnitType": "WON",
-            "benefitValue": 300,
-            "benefitStartDate": "2023-12-06T02:00:00.000+0000",
-            "benefitEndDate": "2024-01-06T01:59:59.999+0000",
-            "couponPublicationNo": "4950033266200",
-            "couponPublicationType": "DOWNLOAD",
-            "minOrderAmount": 10000,
-            "validPeriodStartDate": "2023-12-06T02:00:00.000+0000",
-            "validPeriodEndDate": "2024-01-06T01:59:59.999+0000",
-            "validityDay": 0,
-            "interestTypes": [
-                "TALK_TALK"
-            ],
-            "onlyInterest": false,
-            "couponKindType": "PRODUCT",
-            "couponItemDetailExposureYn": true,
-            "couponTalkExposureYn": true,
-            "membershipCouponYn": false,
-            "hasBenefit": false
+          "imageType": "REPRESENTATIVE",
+          "order": 1,
+          "url": "https://shop-phinf.pstatic.net/20231114_201/1699953337515HBfMP_JPEG/24626222565966350_1203410319.jpg",
+          "width": 750,
+          "height": 1000
         }
-    ]
-}
+      ],
+      "benefitsView": {
+        "mobileDiscountedSalePrice": 4500
+      },
+      "name": "[스타벅스] 아이스 카페 아메리카노 T",
+      "channel": {
+        "channelNo": 100889343
+      }
+    },
+    {
+      "_id": "5831999251",
+      "productId": "5831999251",
+      "soldout": false,
+      "productImages": [
+        {
+          "imageType": "REPRESENTATIVE",
+          "order": 1,
+          "url": "https://shop-phinf.pstatic.net/20231114_37/1699953619185DLSDt_JPEG/24626504223296267_1713275753.jpg",
+          "width": 750,
+          "height": 1000
+        }
+      ],
+      "benefitsView": {
+        "mobileDiscountedSalePrice": 30000
+      },
+      "name": "[스타벅스] APP전용_e카드 3만원 교환권",
+      "channel": {
+        "channelNo": 100889343
+      }
+    },
+    {
+      "_id": "6511574509",
+      "productId": "6511574509",
+      "soldout": false,
+      "productImages": [
+        {
+          "imageType": "REPRESENTATIVE",
+          "order": 1,
+          "url": "https://shop-phinf.pstatic.net/20231106_174/1699244582484DrQqs_JPEG/2895030306139698_1923892267.jpg",
+          "width": 350,
+          "height": 350
+        }
+      ],
+      "benefitsView": {
+        "mobileDiscountedSalePrice": 13500
+      },
+      "name": "[선물하기] 스타벅스 부드러운 디저트 세트(HOT)",
+      "channel": {
+        "channelNo": 500019006
+      }
+    },
+    {
+      "_id": "6615145310",
+      "productId": "6615145310",
+      "soldout": false,
+      "productImages": [
+        {
+          "imageType": "REPRESENTATIVE",
+          "order": 1,
+          "url": "https://shop-phinf.pstatic.net/20231102_131/1698910575735tFfoA_JPEG/4134234534251983_681264663.jpg",
+          "width": 750,
+          "height": 1000
+        }
+      ],
+      "benefitsView": {
+        "mobileDiscountedSalePrice": 14900
+      },
+      "name": "[스타벅스] 카페 아메리카노 T 2잔+마스카포네 티라미수 케이크",
+      "channel": {
+        "channelNo": 100889343
+      }
+    },
+    {
+      "_id": "6615146848",
+      "productId": "6615146848",
+      "soldout": false,
+      "productImages": [
+        {
+          "imageType": "REPRESENTATIVE",
+          "order": 1,
+          "url": "https://shop-phinf.pstatic.net/20231102_66/1698910441236DTLU2_JPEG/25829011573936417_434128778.jpg",
+          "width": 750,
+          "height": 1000
+        }
+      ],
+      "benefitsView": {
+        "mobileDiscountedSalePrice": 20400
+      },
+      "name": "[스타벅스] 카페 아메리카노 T 2잔+부드러운 생크림 카스텔라+슈크림 가득 바움쿠헨",
+      "channel": {
+        "channelNo": 100889343
+      }
+    },
+    {
+      "_id": "6181700202",
+      "productId": "6181700202",
+      "soldout": false,
+      "productImages": [
+        {
+          "imageType": "REPRESENTATIVE",
+          "order": 1,
+          "url": "https://shop-phinf.pstatic.net/20231106_213/1699244643143JdcvY_JPEG/2618051133315097_1784542159.jpg",
+          "width": 350,
+          "height": 350
+        }
+      ],
+      "benefitsView": {
+        "mobileDiscountedSalePrice": 4500
+      },
+      "name": "[선물하기] 스타벅스 카페 아메리카노 T",
+      "channel": {
+        "channelNo": 500019006
+      }
+    },
+    {
+      "_id": "6507311219",
+      "productId": "6507311219",
+      "soldout": false,
+      "productImages": [
+        {
+          "imageType": "REPRESENTATIVE",
+          "order": 1,
+          "url": "https://shop-phinf.pstatic.net/20231102_101/1698911258640BgQAe_JPEG/16004081537133421_1977823826.jpg",
+          "width": 750,
+          "height": 1000
+        }
+      ],
+      "benefitsView": {
+        "mobileDiscountedSalePrice": 10200
+      },
+      "name": "[스타벅스] 카페 아메리카노 T+7 레이어 가나슈 케이크",
+      "channel": {
+        "channelNo": 100889343
+      }
+    },
+    {
+      "_id": "6182406478",
+      "productId": "6182406478",
+      "soldout": false,
+      "productImages": [
+        {
+          "imageType": "REPRESENTATIVE",
+          "order": 1,
+          "url": "https://shop-phinf.pstatic.net/20231114_155/1699952980527n5j7b_JPEG/6501393422416135_552547032.jpg",
+          "width": 750,
+          "height": 1000
+        }
+      ],
+      "benefitsView": {
+        "mobileDiscountedSalePrice": 5000
+      },
+      "name": "[스타벅스] 아이스 카페 라떼 T",
+      "channel": {
+        "channelNo": 100889343
+      }
+    },
+    {
+      "_id": "6182403406",
+      "productId": "6182403406",
+      "soldout": false,
+      "productImages": [
+        {
+          "imageType": "REPRESENTATIVE",
+          "order": 1,
+          "url": "https://shop-phinf.pstatic.net/20231114_15/1699953168055d1evW_JPEG/10886398682661851_257027347.jpg",
+          "width": 750,
+          "height": 1000
+        }
+      ],
+      "benefitsView": {
+        "mobileDiscountedSalePrice": 9000
+      },
+      "name": "[스타벅스] 카페 아메리카노 T 2잔",
+      "channel": {
+        "channelNo": 100889343
+      }
+    },
+    {
+      "_id": "8676737921",
+      "productId": "8676737921",
+      "soldout": false,
+      "productImages": [
+        {
+          "imageType": "REPRESENTATIVE",
+          "order": 1,
+          "url": "https://shop-phinf.pstatic.net/20231106_118/1699244155631cuWl4_JPEG/1819904391795843_1098039551.jpg",
+          "width": 350,
+          "height": 350
+        },
+        {
+          "imageType": "OPTIONAL",
+          "order": 1,
+          "url": "https://shop-phinf.pstatic.net/20231106_118/1699244155631cuWl4_JPEG/1819904391795843_1098039551.jpg",
+          "width": 350,
+          "height": 350
+        }
+      ],
+      "benefitsView": {
+        "mobileDiscountedSalePrice": 20000
+      },
+      "name": "[선물하기] 스타벅스 APP전용_e카드 2만원 교환권",
+      "channel": {
+        "channelNo": 500019006
+      }
+    },
+    {
+      "_id": "7380678541",
+      "productId": "7380678541",
+      "soldout": false,
+      "productImages": [
+        {
+          "imageType": "REPRESENTATIVE",
+          "order": 1,
+          "url": "https://shop-phinf.pstatic.net/20231201_223/1701416324156rmjyW_JPEG/3299208016110235_1002152061.jpg",
+          "width": 600,
+          "height": 600
+        }
+      ],
+      "benefitsView": {
+        "mobileDiscountedSalePrice": 37000
+      },
+      "name": "[기프티쇼] 투썸플레이스 스트로베리 초콜릿 생크림",
+      "channel": {
+        "channelNo": 500096697
+      }
+    },
+    {
+      "_id": "7623576683",
+      "productId": "7623576683",
+      "soldout": false,
+      "productImages": [
+        {
+          "imageType": "REPRESENTATIVE",
+          "order": 1,
+          "url": "https://shop-phinf.pstatic.net/20210618_27/1624007387249o2p9M_JPEG/0004.jpg",
+          "width": 350,
+          "height": 350
+        },
+        {
+          "imageType": "OPTIONAL",
+          "order": 1,
+          "url": "https://shop-phinf.pstatic.net/20210618_27/1624007387249o2p9M_JPEG/0004.jpg",
+          "width": 350,
+          "height": 350
+        }
+      ],
+      "benefitsView": {
+        "mobileDiscountedSalePrice": 2900
+      },
+      "name": "[선물하기] 파리바게뜨 아메리카노(시그니처)",
+      "channel": {
+        "channelNo": 500019006
+      }
+    },
+    {
+      "_id": "8676733906",
+      "productId": "8676733906",
+      "soldout": false,
+      "productImages": [
+        {
+          "imageType": "REPRESENTATIVE",
+          "order": 1,
+          "url": "https://shop-phinf.pstatic.net/20231106_59/1699244158723mVvAx_JPEG/2894606545743950_949010260.jpg",
+          "width": 350,
+          "height": 350
+        },
+        {
+          "imageType": "OPTIONAL",
+          "order": 1,
+          "url": "https://shop-phinf.pstatic.net/20231106_59/1699244158723mVvAx_JPEG/2894606545743950_949010260.jpg",
+          "width": 350,
+          "height": 350
+        }
+      ],
+      "benefitsView": {
+        "mobileDiscountedSalePrice": 30000
+      },
+      "name": "[선물하기] 스타벅스 APP전용_e카드 3만원 교환권",
+      "channel": {
+        "channelNo": 500019006
+      }
+    },
+    {
+      "_id": "8972420994",
+      "productId": "8972420994",
+      "soldout": false,
+      "productImages": [
+        {
+          "imageType": "REPRESENTATIVE",
+          "order": 1,
+          "url": "https://shop-phinf.pstatic.net/20220705_160/1657008389700iXAhV_JPEG/58144232397193551_1829300529.jpg",
+          "width": 550,
+          "height": 550
+        }
+      ],
+      "benefitsView": {
+        "mobileDiscountedSalePrice": 3900
+      },
+      "name": "싱글레귤러 아이스크림",
+      "channel": {
+        "channelNo": 100779232
+      }
+    },
+    {
+      "_id": "6507307291",
+      "productId": "6507307291",
+      "soldout": false,
+      "productImages": [
+        {
+          "imageType": "REPRESENTATIVE",
+          "order": 1,
+          "url": "https://shop-phinf.pstatic.net/20231102_238/1698911910249lhT73_JPEG/4512280917873591_1843253492.jpg",
+          "width": 750,
+          "height": 1000
+        }
+      ],
+      "benefitsView": {
+        "mobileDiscountedSalePrice": 16900
+      },
+      "name": "[스타벅스] 카페 라떼 T 2잔+슈크림 가득 바움쿠헨",
+      "channel": {
+        "channelNo": 100889343
+      }
+    },
+    {
+      "_id": "7467548669",
+      "productId": "7467548669",
+      "soldout": false,
+      "productImages": [
+        {
+          "imageType": "REPRESENTATIVE",
+          "order": 1,
+          "url": "https://shop-phinf.pstatic.net/20230310_3/16784140294908rsDz_PNG/79549809209408034_224513137.png",
+          "width": 550,
+          "height": 550
+        }
+      ],
+      "benefitsView": {
+        "mobileDiscountedSalePrice": 33000
+      },
+      "name": "나눠먹는 와츄원",
+      "channel": {
+        "channelNo": 100779232
+      }
+    },
+    {
+      "_id": "6182405718",
+      "productId": "6182405718",
+      "soldout": false,
+      "productImages": [
+        {
+          "imageType": "REPRESENTATIVE",
+          "order": 1,
+          "url": "https://shop-phinf.pstatic.net/20231114_104/1699953089671HwoPw_JPEG/24625974601075249_546673378.jpg",
+          "width": 750,
+          "height": 1000
+        }
+      ],
+      "benefitsView": {
+        "mobileDiscountedSalePrice": 5000
+      },
+      "name": "[스타벅스] 카페 라떼 T",
+      "channel": {
+        "channelNo": 100889343
+      }
+    },
+    {
+      "_id": "7681469857",
+      "productId": "7681469857",
+      "soldout": false,
+      "productImages": [
+        {
+          "imageType": "REPRESENTATIVE",
+          "order": 1,
+          "url": "https://shop-phinf.pstatic.net/20221202_64/1669969925522c4C3X_JPEG/71105814235624034_2102632495.jpg",
+          "width": 640,
+          "height": 640
+        }
+      ],
+      "benefitsView": {
+        "mobileDiscountedSalePrice": 10000
+      },
+      "name": "[빽다방] 금액상품권 1만원",
+      "channel": {
+        "channelNo": 101756398
+      }
+    },
+    {
+      "_id": "7624641303",
+      "productId": "7624641303",
+      "soldout": false,
+      "productImages": [
+        {
+          "imageType": "REPRESENTATIVE",
+          "order": 1,
+          "url": "https://shop-phinf.pstatic.net/20230310_64/16784131568514ruBF_PNG/79548936542187344_1168046091.png",
+          "width": 550,
+          "height": 550
+        }
+      ],
+      "benefitsView": {
+        "mobileDiscountedSalePrice": 29000
+      },
+      "name": "골라 먹는 27 큐브",
+      "channel": {
+        "channelNo": 100779232
+      }
+    },
+    {
+      "_id": "8973302067",
+      "productId": "8973302067",
+      "soldout": false,
+      "productImages": [
+        {
+          "imageType": "REPRESENTATIVE",
+          "order": 1,
+          "url": "https://shop-phinf.pstatic.net/20210811_84/16286693965440en3R_JPEG/36134106652116174_1147942005.jpg",
+          "width": 550,
+          "height": 550
+        }
+      ],
+      "benefitsView": {
+        "mobileDiscountedSalePrice": 9800
+      },
+      "name": "파인트 아이스크림",
+      "channel": {
+        "channelNo": 100779232
+      }
+    },
+    {
+      "_id": "8901470477",
+      "productId": "8901470477",
+      "soldout": false,
+      "productImages": [
+        {
+          "imageType": "REPRESENTATIVE",
+          "order": 1,
+          "url": "https://shop-phinf.pstatic.net/20230718_61/1689666552524EYPPF_JPEG/5949441804982690_228869823.jpg",
+          "width": 550,
+          "height": 550
+        }
+      ],
+      "benefitsView": {
+        "mobileDiscountedSalePrice": 1500
+      },
+      "name": "[컴포즈커피] 아메리카노(Ice)(TAKE-OUT)",
+      "channel": {
+        "channelNo": 101688607
+      }
+    },
+    {
+      "_id": "8272808157",
+      "productId": "8272808157",
+      "soldout": false,
+      "productImages": [
+        {
+          "imageType": "REPRESENTATIVE",
+          "order": 1,
+          "url": "https://shop-phinf.pstatic.net/20230607_241/1686124701488trtse_JPEG/0004.jpg",
+          "width": 350,
+          "height": 350
+        },
+        {
+          "imageType": "OPTIONAL",
+          "order": 1,
+          "url": "https://shop-phinf.pstatic.net/20230607_241/1686124701488trtse_JPEG/0004.jpg",
+          "width": 350,
+          "height": 350
+        }
+      ],
+      "benefitsView": {
+        "mobileDiscountedSalePrice": 33000
+      },
+      "name": "[선물하기] 파리바게뜨 마이넘버원 케이크",
+      "channel": {
+        "channelNo": 500019006
+      }
+    },
+    {
+      "_id": "8746409551",
+      "productId": "8746409551",
+      "soldout": false,
+      "productImages": [
+        {
+          "imageType": "REPRESENTATIVE",
+          "order": 1,
+          "url": "https://shop-phinf.pstatic.net/20231107_13/1699323323833v2dKp_JPEG/46282714623037280_33988910.jpg",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "benefitsView": {
+        "mobileDiscountedSalePrice": 35000
+      },
+      "name": "우유가득 생크림케이크 2호",
+      "channel": {
+        "channelNo": 100869357
+      }
+    },
+    {
+      "_id": "7669189316",
+      "productId": "7669189316",
+      "soldout": false,
+      "productImages": [
+        {
+          "imageType": "REPRESENTATIVE",
+          "order": 1,
+          "url": "https://shop-phinf.pstatic.net/20230919_292/16950986164159oBjj_PNG/783090284879846_27107119.png",
+          "width": 550,
+          "height": 550
+        }
+      ],
+      "benefitsView": {
+        "mobileDiscountedSalePrice": 34000
+      },
+      "name": "나눠먹는 큐브 와츄원",
+      "channel": {
+        "channelNo": 100779232
+      }
+    },
+    {
+      "_id": "7053800789",
+      "productId": "7053800789",
+      "soldout": false,
+      "productImages": [
+        {
+          "imageType": "REPRESENTATIVE",
+          "order": 1,
+          "url": "https://shop-phinf.pstatic.net/20230601_211/1685581547572AMiD8_JPEG/5100768262664130_1844590736.jpg",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "benefitsView": {
+        "mobileDiscountedSalePrice": 32000
+      },
+      "name": "생딸기 프레지에 생크림 케이크",
+      "channel": {
+        "channelNo": 100869357
+      }
+    },
+    {
+      "_id": "6182408957",
+      "productId": "6182408957",
+      "soldout": false,
+      "productImages": [
+        {
+          "imageType": "REPRESENTATIVE",
+          "order": 1,
+          "url": "https://shop-phinf.pstatic.net/20231114_72/16999528542424TVjj_JPEG/23479044041486495_460144406.jpg",
+          "width": 750,
+          "height": 1000
+        }
+      ],
+      "benefitsView": {
+        "mobileDiscountedSalePrice": 10000
+      },
+      "name": "[스타벅스] 아이스 카페 라떼 T 2잔",
+      "channel": {
+        "channelNo": 100889343
+      }
+    },
+    {
+      "_id": "8044395966",
+      "productId": "8044395966",
+      "soldout": false,
+      "productImages": [
+        {
+          "imageType": "REPRESENTATIVE",
+          "order": 1,
+          "url": "https://shop-phinf.pstatic.net/20230602_247/1685670614274FabXy_JPEG/34201870070927817_1437028693.jpg",
+          "width": 650,
+          "height": 650
+        }
+      ],
+      "benefitsView": {
+        "mobileDiscountedSalePrice": 33000
+      },
+      "name": "마이넘버원 케이크",
+      "channel": {
+        "channelNo": 100869357
+      }
+    },
+    {
+      "_id": "8702938756",
+      "productId": "8702938756",
+      "soldout": false,
+      "productImages": [
+        {
+          "imageType": "REPRESENTATIVE",
+          "order": 1,
+          "url": "https://shop-phinf.pstatic.net/20230303_24/1677808472659KsQma_JPEG/78944361368826048_1630256380.jpg",
+          "width": 600,
+          "height": 600
+        }
+      ],
+      "benefitsView": {
+        "mobileDiscountedSalePrice": 16000
+      },
+      "name": "[크리스피크림도넛] 오리지널 글레이즈드 더즌",
+      "channel": {
+        "channelNo": 100119889
+      }
+    },
+    {
+      "_id": "6854194724",
+      "productId": "6854194724",
+      "soldout": false,
+      "productImages": [
+        {
+          "imageType": "REPRESENTATIVE",
+          "order": 1,
+          "url": "https://shop-phinf.pstatic.net/20231110_113/1699605655076y5j3Y_JPEG/24805747782027648_2100446693.jpg",
+          "width": 350,
+          "height": 350
+        },
+        {
+          "imageType": "OPTIONAL",
+          "order": 1,
+          "url": "https://shop-phinf.pstatic.net/20231110_113/1699605655076y5j3Y_JPEG/24805747782027648_2100446693.jpg",
+          "width": 350,
+          "height": 350
+        }
+      ],
+      "benefitsView": {
+        "mobileDiscountedSalePrice": 1500
+      },
+      "name": "[선물하기] 메가MGC커피 (HOT)아메리카노",
+      "channel": {
+        "channelNo": 500019006
+      }
+    }
+  ]

@@ -1,27 +1,124 @@
-[{
-    "id": 1,
-    "name": "John",
-    "details": [{
-            "age": 25,
-            "address": "123 Main 444"
-        },
-        {
-            "age": 30,
-            "address": "456 Oak St"
-        }
-    ]
-},
 {
-    "id": 2,
-    "name": "Jane 222222",
-    "details": [{
-            "age": 22,
-            "address": "789 Elm St3333 3333333"
-        },
-        {
-            "age": 28,
-            "address": "101 Pine St 44444444"
-        }
-    ]
+    "1": {
+        "count": 4,
+        "result": [
+            {
+                "Fulldate": "23-12-05",
+                "date": "12-05",
+                "minPrice": 86580
+            },
+            {
+                "Fulldate": "23-12-12",
+                "date": "12-12",
+                "minPrice": 86580
+            },
+            {
+                "Fulldate": "23-12-19",
+                "date": "12-19",
+                "minPrice": 86580
+            },
+            {
+                "Fulldate": "23-12-26",
+                "date": "12-26",
+                "minPrice": 83660
+            }
+        ],
+        "maxPrice": "86580",
+        "minPrice": "83660"
+    },
+    "3": {
+        "count": 10,
+        "result": [
+            {
+                "Fulldate": "23-10-24",
+                "date": "10-24",
+                "minPrice": 109260
+            },
+            {
+                "Fulldate": "23-10-31",
+                "date": "10-31",
+                "minPrice": 108960
+            },
+            {
+                "Fulldate": "23-11-07",
+                "date": "11-07",
+                "minPrice": 104070
+            },
+            {
+                "Fulldate": "23-11-14",
+                "date": "11-14",
+                "minPrice": 88453
+            },
+            {
+                "Fulldate": "23-11-21",
+                "date": "11-21",
+                "minPrice": 90664
+            },
+            {
+                "Fulldate": "23-11-28",
+                "date": "11-28",
+                "minPrice": 86580
+            },
+            {
+                "Fulldate": "23-12-05",
+                "date": "12-05",
+                "minPrice": 86580
+            },
+            {
+                "Fulldate": "23-12-12",
+                "date": "12-12",
+                "minPrice": 86580
+            },
+            {
+                "Fulldate": "23-12-19",
+                "date": "12-19",
+                "minPrice": 86580
+            },
+            {
+                "Fulldate": "23-12-26",
+                "date": "12-26",
+                "minPrice": 83660
+            }
+        ],
+        "maxPrice": "109260",
+        "minPrice": "83660"
+    },
+    "6": {
+        "count": 3,
+        "result": [
+            {
+                "date": "23-10",
+                "minPrice": 108960
+            },
+            {
+                "date": "23-11",
+                "minPrice": 86580
+            },
+            {
+                "date": "23-12",
+                "minPrice": 83660
+            }
+        ],
+        "maxPrice": 108960,
+        "minPrice": 83660
+    },
+    "12": {
+        "count": 3,
+        "result": [
+            {
+                "date": "23-10",
+                "minPrice": 108960
+            },
+            {
+                "date": "23-11",
+                "minPrice": 86580
+            },
+            {
+                "date": "23-12",
+                "minPrice": 83660
+            }
+        ],
+        "maxPrice": 108960,
+        "minPrice": 83660
+    }
 }
-]

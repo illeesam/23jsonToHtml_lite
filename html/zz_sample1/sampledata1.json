@@ -20,13 +20,11 @@
     "name": "Jane",
     "details": [{
             "age": 22,
-            "address": "789 Elm St3333",
-            "addrStatusCd": "01"
+            "address": "789 Elm St3333"
         },
         {
             "age": 28,
-            "address": "101 Pine St",
-            "addrStatusCd": "02"
+            "address": "101 Pine St"
         }
     ]
 }

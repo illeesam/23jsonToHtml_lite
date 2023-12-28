@@ -3,6 +3,7 @@
  *******************/
 
 function loadJsonToHtml(jsonArr) {
+  console.log(">>>>>> loadJsonToHtml() 01 ");
   for (let i = 0; i < jsonArr.length; i++) {
     convertJsonToHtml(i + 1, jsonArr[i]["url"], jsonArr[i]["method"], jsonArr[i]["title"]);
   }
@@ -42,7 +43,7 @@ function createTable(jsonObj, info) {
   }
 }
 
-// arrray table생성
+// 테이블 생성 함수 :: array
 function _make_array(jsonObj) {
   let _table = document.createElement("table");
   _table.setAttribute("class", "arr_table");
@@ -68,7 +69,6 @@ function _make_array(jsonObj) {
 
   let _tbody = document.createElement("tbody"); // 바디 생성
   _tbody.setAttribute("class", "arr_tbody");
-  
   for (let i = 0; i < jsonObj.length; i++) {
     let _tr = document.createElement("tr");
     _tr.setAttribute("class", "arr_tr");
@@ -91,18 +91,16 @@ function _make_array(jsonObj) {
     }
     _tbody.appendChild(_tr);
   }
-  
   _table.appendChild(_tbody);
   return _table;
 }
 
-// object table생성
+// 테이블 생성 함수 :: object
 function _make_object(jsonObj) {
   let _table = document.createElement("table");
   _table.setAttribute("class", "obj_table");
   let _tbody = document.createElement("tbody"); // 바디 생성
   _tbody.setAttribute("class", "obj_tbody");
-  
   for (let key in jsonObj) {
     let value = jsonObj[key];
     let _tr = document.createElement("tr");
@@ -123,12 +121,11 @@ function _make_object(jsonObj) {
     _tr.appendChild(_td2);
     _tbody.appendChild(_tr);
   }
-  
   _table.appendChild(_tbody);
   return _table;
 }
 
-// 타이틀
+// 타이블
 function _out_title(value) {
   let result = "";
   if (value == null || value == "null") {
